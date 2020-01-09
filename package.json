@@ -1,0 +1,32 @@
+{
+  "name": "mat-page-block",
+  "version": "1.0.1",
+  "author": "Daud Minhas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daudminhas/mat-page-block.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daudminhas/mat-page-block/issues"
+  },
+  "homepage": "https://github.com/daudminhas/mat-page-block",
+  "keywords": [
+    "angular",
+    "angular-material",
+    "typescript",
+    "page",
+    "block",
+    "mat"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "metadata": "page-block.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0",
+    "@angular/material": "^8.2.3"
+  }
+}
